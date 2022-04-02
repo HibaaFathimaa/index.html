@@ -59,5 +59,3 @@ Copley Medal (1955)</td>
   </tr>
   </hr>
 </table>
-  </body>
-</html>
